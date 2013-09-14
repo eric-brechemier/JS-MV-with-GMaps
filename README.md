@@ -21,4 +21,8 @@ Comparison of JavaScript MVC Libraries
 * [Backbone.js](http://backbonejs.org/)
 * [Ember.js](http://emberjs.com/)
 * [KnockoutJS](http://knockoutjs.com/)
->>>>>>> author-description
+
+License
+-------
+
+[CC-BY Jon Yom-Tov](http://creativecommons.org/licenses/by/3.0/)
